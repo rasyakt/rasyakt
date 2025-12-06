@@ -98,7 +98,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rasyakt/rasyakt/output/snake.svg" alt="Snake animation" />
-
-###
