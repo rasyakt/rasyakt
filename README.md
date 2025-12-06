@@ -4,9 +4,6 @@
 ###
 
 <div align="center">
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=rasyakt.rasyakt&"  />
-  </div>
   <a href="https://www.linkedin.com/in/rasya-syahreza-maulana-zen-15b54a36b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -25,12 +22,12 @@
 </div>
 
 ###
-
+<h3 align="left">👩‍💻  About Me</h3>
 <p align="center">Passionate about building clean and functional apps. Always learning. Always Improving</p>
-<hr style="border-color: grey; border-width: 1px;">
+
 
 ###
-<h4>I Code With</h4>
+<h3 align="left">🛠 Language & Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -88,14 +85,14 @@
 </div>
 
 ###
-
+<h3 align="left">🔥My Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rasyakt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=rasyakt&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
+<h3 align="left">🎮Play Game</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasyakt/rasyakt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasyakt/rasyakt/output/pacman-contribution-graph.svg">
