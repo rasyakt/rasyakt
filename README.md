@@ -1,8 +1,12 @@
 <h1 align="center">print ("Hello world 👋")</h1>
 
+
 ###
 
 <div align="center">
+  <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=rasyakt.rasyakt&"  />
+  </div>
   <a href="https://www.linkedin.com/in/rasya-syahreza-maulana-zen-15b54a36b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -23,7 +27,7 @@
 ###
 
 <p align="center">Passionate about building clean and functional apps. Always learning. Always Improving</p>
-<hr style="border-color: grey; border-width: 2px;">
+<hr style="border-color: grey; border-width: 1px;">
 
 ###
 <h4>I Code With</h4>
