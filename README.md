@@ -23,9 +23,10 @@
 ###
 
 <p align="center">Passionate about building clean and functional apps. Always learning. Always Improving</p>
+<hr style="border-color: grey; border-width: 2px;">
 
-###I Code With
-
+###
+<h4>I Code With</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
