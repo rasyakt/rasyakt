@@ -21,6 +21,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://count.getloli.com/@:rasyakt?theme=love-and-deepspace&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">Passionate about building clean and functional apps. Always learning. Always Improving</p>
