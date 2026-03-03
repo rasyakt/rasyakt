@@ -26,7 +26,7 @@
 </div>
 
 ###
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏼‍💻 About Me</h3>
 <p align="left">Passionate about building clean and functional apps. Always learning. Always Improving</p>
 
 
@@ -109,7 +109,7 @@
 </div>
 
 ###
-<h3 align="left">🎮Play Game</h3>
+<h3 align="left">Play Game</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasyakt/rasyakt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasyakt/rasyakt/output/pacman-contribution-graph.svg">
