@@ -104,8 +104,20 @@
 ###
 <h3 align="left">My Stats</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rasyakt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br><br><img src="https://github-profile-trophy.vercel.app?username=rasyakt&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-trophies.vercel.app/?username=rasyakt&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rasyakt&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasyakt&theme=dracula&hide_border=false&border_radius=8&layout=compact" height="180" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rasyakt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="180" alt="GitHub Streak Stats" />
 </div>
 
 ###
