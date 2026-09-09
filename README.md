@@ -117,7 +117,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rasyakt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="180" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app?user=rasyakt&theme=dracula&hide_border=false&border_radius=8" height="180" alt="GitHub Streak Stats" />
 </div>
 
 ###
