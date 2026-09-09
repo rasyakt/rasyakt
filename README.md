@@ -41,11 +41,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,flutter,dart,kotlin,androidstudio&theme=dark" alt="Frontend & Mobile" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,npm,pnpm,flutter,dart,kotlin,androidstudio&theme=dark" alt="Frontend & Mobile" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,py,java,go,cpp,lua,mysql,postgres,sqlite,firebase&theme=dark" alt="Backend & Database" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,py,java,go,cpp,cs,lua,mysql,postgres,sqlite,firebase&theme=dark" alt="Backend & Database" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,vscode,gcp,gradle,figma,ai&theme=dark" alt="Tools & DevOps" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,linux,vscode,gcp,gradle,cloudflare,figma,ai&theme=dark" alt="Tools & DevOps" />
   </a>
 </div>
 
