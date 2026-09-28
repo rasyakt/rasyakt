@@ -53,15 +53,15 @@
 <h3 align="left">GitHub Stats & Activity</h3>
 
 <div align="center">
-  <img height="165em" src="https://streak-stats.demolab.com/?user=fikrihaikal17&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fikrihaikal17&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=rasyakt&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasyakt&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rasyakt&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.vercel.app?user=rasyakt&theme=dracula&hide_border=false&border_radius=8" height="180" alt="GitHub Streak Stats" />
-</div>
+</div> -->
 
 <br/>
 
